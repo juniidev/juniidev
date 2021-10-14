@@ -1,4 +1,4 @@
-### Hi I´am Henry jr 👋
+### Hi, I´am Henry jr 👋
 ```js
 const juniidev = {
   pronouns: "he" | "him",
