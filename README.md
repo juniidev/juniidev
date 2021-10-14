@@ -6,7 +6,7 @@ const juniidev = {
   tools: [React, Node,]
 }
 ```
-You can find me 🌐:
+You can find me 🌎:
 - [Behance](https://www.behance.net/henrymatarrita)
 - [Twitter](https://twitter.com/Henry_jr_1)
 - [Instagram](https://www.instagram.com/_henry.jr/)
