@@ -1,29 +1,47 @@
-### Hi, I´am Henry jr 👋
+<p align="center" width="300">
+   <img align="center" width="200" src="https://github.com/juniidev/my-portfolio/blob/main/assets/img/perfil.png" />
+   <h3 align="center">¡Hey 👋! Soy juniidev 👨🏻‍💻</h3>
+</p>
+
 ```js
 const juniidev = {
+  name: Henry M,
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS,
-  tools: [React, Node,]
+  code: [Javascript, HTML, CSS],
+  tools: [React, Ai,]
 }
 ```
-You can find me 🌎:
-- [Behance](https://www.behance.net/henrymatarrita)
-- [Twitter](https://twitter.com/Henry_jr_1)
-- [Instagram](https://www.instagram.com/_henry.jr/)
+
+  <h3 align="center">Un apasionado desarrollador Frontend de Liberia, Costa Rica</h3>
+
+  <p>🔭 Actualmente estoy trabajando en mi portafolio y en aprender cada vez más</p>
+
+  <p> 🌱 Me encuentro aprendiendo Reactt.js </p>
+
+ 💬 Pregúntame sobre lo que gustes [Aquí](https://discord.gg/c9xtPBTV) 
 
 
+### Otras habilidades.
+```js
+const designTools = {
+  tools: [Adobe Illustrator, Photoshop,]
+}
 
-<!--
-**juniidev/juniidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+const vidTools = {
+  tools: [Adobe Premiere Pro, After Effects ,]
+}
 
-Here are some ideas to get you started:
+const 3dTools = {
+  tools: [Blender]
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniidev&layout=compact&show_icons=true&theme=radical)
+](https://github.com/anuraghazra/github-readme-stats)
+
+### Encúentrame en:
+<p align="left">
+<a href="https://twitter.com/@henry_jr_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  alt="@henry_jr_1" height="30" width="40" /></a>
+<a href="https://instagram.com/_henry.jr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_henry.jr" height="30" width="40" /></a>
+<a href="https://www.behance.net/henrymatarrita" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/48/48975.png" alt="henrymatarrita" height="40" width="40" /></a>
+</p>
