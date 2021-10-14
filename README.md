@@ -41,7 +41,7 @@ const 3dTools = {
 
 ### Encúentrame en:
 <p align="left">
-<a href="https://twitter.com/@henry_jr_1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  alt="@henry_jr_1" height="30" width="40" /></a>
-<a href="https://instagram.com/_henry.jr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_henry.jr" height="30" width="40" /></a>
-<a href="https://www.behance.net/henrymatarrita" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/48/48975.png" alt="henrymatarrita" height="40" width="40" /></a>
+<a href="https://twitter.com/@henry_jr_1" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  alt="@henry_jr_1" height="30" width="40" /></a>
+<a href="https://instagram.com/_henry.jr" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_henry.jr" height="30" width="40" /></a>
+<a href="https://www.behance.net/henrymatarrita" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/48/48975.png" alt="henrymatarrita" height="40" width="40" /></a>
 </p>
