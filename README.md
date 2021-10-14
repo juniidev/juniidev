@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi I´am Henry jr 👋
+```js
+const juniidev = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS,
+  tools: [React, Node,]
+}
+```
 
 <!--
 **juniidev/juniidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
