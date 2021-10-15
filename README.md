@@ -12,11 +12,11 @@ const juniidev = {
 }
 ```
 
-  <h3 align="center">Un apasionado desarrollador Frontend de Liberia, Costa Rica</h3>
+  <h3 align="center">Un apasionado desarrollador Frontend de Liberia, Costa Rica.</h3>
 
-  <p>🔭 Actualmente estoy trabajando en mi portafolio y en aprender cada vez más</p>
+  <p>🔭 Actualmente estoy trabajando en mi portafolio y en aprender cada vez más.</p>
 
-  <p> 🌱 Me encuentro aprendiendo Reactt.js </p>
+  <p> 🌱 Me encuentro aprendiendo React.js </p>
 
  💬 Pregúntame sobre lo que gustes [Aquí](https://discord.gg/c9xtPBTV) 
 
