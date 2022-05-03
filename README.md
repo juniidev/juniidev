@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm Henry Matarrita. A Web Design / Web Developer and Graphic Designer from Costa Rica :costaricaflag.
+I'm Henry Matarrita. A Web Design / Web Developer and Graphic Designer from Costa Rica :costaricaflag: .
 I ocassionally post pics about my travels stuff.  
 
 
