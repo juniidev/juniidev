@@ -14,7 +14,7 @@ I ocassionally post pics about my travels stuff.
 - Open source :octocat:
 
 ## More
-[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github.com/juniidev)
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
 
 ## Get in touch :coffee:
 
