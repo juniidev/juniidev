@@ -4,8 +4,9 @@
 
 ## About me
 
-I'm Henry Matarrita. A Web Design / Web Developer and Graphic Designer from Costa Rica.
-I ocassionally post pics about my travels stuff.  
+I'm Henry Matarrita. 
+A Web Designer / Web Developer and also Graphic Designer from Costa Rica.
+I ocassionally post pics about my travels stuff on [instagram](https://www.instagram.com/_henry.jr/).  
 
 
 ## Things I am passionate about
@@ -18,7 +19,7 @@ I ocassionally post pics about my travels stuff.
 
 ## Get in touch :coffee:
 
-- Want to see my instagram [instagram](https://www.instagram.com/_henry.jr/).
+- Want to see my [instagram](https://www.instagram.com/_henry.jr/).
 - Ramdom stuff [Twitter](https://twitter.com/henry_jr_1).
 - And of course GitHub you're already on (Recursion).
 
