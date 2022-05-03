@@ -2,11 +2,9 @@
 
 <img src="https://github.com/juniidev/sources/blob/main/Web%201920%20%E2%80%93%201.png" alt="Hello world">
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github.com/juniidev)
-
 ## About me
 
-I'm Henry Matarrita. A Web Design / Web Developer , and Graphic Designer.
+I'm Henry Matarrita. A Web Design / Web Developer and Graphic Designer from Costa Rica :costaricaflag.
 I ocassionally post pics about my travels stuff.  
 
 
@@ -14,6 +12,9 @@ I ocassionally post pics about my travels stuff.
 
 - Web Design 🎨
 - Open source :octocat:
+
+## More
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github.com/juniidev)
 
 ## Get in touch :coffee:
 
