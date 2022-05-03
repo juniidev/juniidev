@@ -1,47 +1,41 @@
-<p align="center" width="300">
-   <img align="center" width="200" src="https://github.com/juniidev/my-portfolio/blob/main/assets/img/perfil.png" />
-   <h3 align="center">¡Hey 👋! Soy juniidev 👨🏻‍💻</h3>
+# Hey there :wave:
+
+<img src="https://github.com/juniidev/sources/blob/main/Web%201920%20%E2%80%93%201.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
 
-```js
-const juniidev = {
-  name: Henry M,
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Ai,]
-}
-```
+## About me
 
-  <h3 align="center">Un apasionado desarrollador Frontend de Liberia, Costa Rica.</h3>
-
-  <p>🔭 Actualmente estoy trabajando en mi portafolio y en aprender cada vez más.</p>
-
-  <p> 🌱 Me encuentro aprendiendo React.js </p>
-
- 💬 Pregúntame sobre lo que gustes [Aquí](https://discord.gg/c9xtPBTV) 
+I'm Henry Matarrita. A Web Design / Web Developer , and Graphic Designer.
+I ocassionally post pics about my travels stuff.  
 
 
-### Otras habilidades.
-```js
-const designTools = {
-  tools: [Adobe Illustrator, Photoshop,]
-}
+## Things I am passionate about
 
-const vidTools = {
-  tools: [Adobe Premiere Pro, After Effects ,]
-}
+- Web Design 🎨
+- Open source :octocat:
 
-const 3dTools = {
-  tools: [Blender]
-}
-```
+## Get in touch :coffee:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniidev&layout=compact&show_icons=true&theme=radical)
-](https://github.com/anuraghazra/github-readme-stats)
+- Want to see my instagram [instagram](https://www.instagram.com/_henry.jr/).
+- Ramdom stuff [Twitter](https://twitter.com/henry_jr_1).
+- And of course GitHub you're already on (Recursion).
 
-### Encúentrame en:
-<p align="left">
-<a href="https://twitter.com/@henry_jr_1" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  alt="@henry_jr_1" height="30" width="40" /></a>
-<a href="https://instagram.com/_henry.jr" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_henry.jr" height="30" width="40" /></a>
-<a href="https://www.behance.net/henrymatarrita" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/48/48975.png" alt="henrymatarrita" height="40" width="40" /></a>
-</p>
+
+<!--
+**sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
