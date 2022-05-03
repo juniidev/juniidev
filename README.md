@@ -4,9 +4,9 @@
 
 ## About me
 
-I'm Henry Matarrita. 
-A Web Designer / Web Developer and also Graphic Designer from Costa Rica.
-I ocassionally post pics about my travels stuff on [instagram](https://www.instagram.com/_henry.jr/).  
+I'm Henry Matarrita. <br>
+A Web Designer / Web Developer and also Graphic Designer from Costa Rica. <br>
+I ocassionally post pics about my travels stuff on [instagram](https://www.instagram.com/_henry.jr/).  <br>
 
 
 ## Things I am passionate about
