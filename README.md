@@ -2,10 +2,7 @@
 
 <img src="https://github.com/juniidev/sources/blob/main/Web%201920%20%E2%80%93%201.png" alt="Hello world">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/juniidev/count.svg" />
-</p>
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github.com/juniidev)
 
 ## About me
 
